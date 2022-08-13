@@ -17,7 +17,6 @@ $(document).ready(function () {
 $(document).ready(function () {
 	$(".feedback__row").owlCarousel({
 		items: 1,
-		//  center: true,
 		loop: true,
 		margin: 15,
 		nav: true,
